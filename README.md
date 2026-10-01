@@ -2,6 +2,8 @@
 
 API REST desarrollada con Express. Los datos se guardan en memoria y se reinician al detener el servidor.
 
+Consulta [API.md](./API.md) para ver la documentación completa de rutas, parámetros, respuestas y ejemplos con `curl`.
+
 ## Requisitos y ejecución
 
 Se necesita Node.js y npm.
