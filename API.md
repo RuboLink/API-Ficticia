@@ -5,7 +5,7 @@ API REST para simular una tienda en línea. Acepta y devuelve JSON; no requiere 
 ## URL base
 
 - Desarrollo local: `http://localhost:3000`
-- Vercel: la URL asignada al proyecto, por ejemplo `https://api-ficticia.vercel.app/`
+- Vercel: la URL asignada al proyecto: `https://api-ficticia.vercel.app/`
 
 Todas las rutas se encuentran en la raíz. Para las solicitudes con cuerpo, envía la cabecera `Content-Type: application/json`.
 
