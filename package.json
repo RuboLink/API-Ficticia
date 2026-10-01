@@ -1,0 +1,17 @@
+{
+  "name": "online-store-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API en memoria para simular una tienda en línea",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest --runInBand"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
